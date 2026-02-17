@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "last_updated": "2026-02-17",
+    "total_circulation": 40,
+    "currency_symbol": "Ꞩ",
+    "maintainer": "Ministry of Finance"
+  },
+  "batches": [
+    {
+      "batch_id": "001-GENESIS",
+      "description": "Первая пилотная партия. Ручная нарезка.",
+      "release_date": "2026-02-15"
+    }
+  ],
+  "banknotes": [
+    {
+      "id": "SLS-AA-1240513",
+      "value": 10,
+      "batch": "001-GENESIS",
+      "status": "ACTIVE",
+      "issue_date": "2026-02-15",
+      "security_note": "First ever printed note"
+    },
+    {
+      "id": "SLS-AA-1240514",
+      "value": 10,
+      "batch": "001-GENESIS",
+      "status": "ACTIVE",
+      "issue_date": "2026-02-15"
+    },
+    {
+      "id": "SLS-AA-1240515",
+      "value": 10,
+      "batch": "001-GENESIS",
+      "status": "ACTIVE",
+      "issue_date": "2026-02-15"
+    },
+    {
+      "id": "SLS-AA-1240516",
+      "value": 10,
+      "batch": "001-GENESIS",
+      "status": "ACTIVE",
+      "issue_date": "2026-02-15"
+    },
+    {
+      "id": "SLS-SPECIMEN",
+      "value": 0,
+      "batch": "000-TEST",
+      "status": "VOID",
+      "issue_date": "2026-02-10",
+      "security_note": "Образец для настройки принтера"
+    }
+  ]
+}
