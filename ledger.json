@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_circulation": 40,
+    "total_circulation": 80,
     "last_updated": "2026-02-17"
   },
   "active_units": [
@@ -32,6 +32,46 @@
       "batch": "Specimen",
       "status": "Void",
       "issue_date": "2026-02-15"
+    },
+    {
+      "id": "SLS-AA100012",
+      "denomination": 10,
+      "batch": "AA",
+      "sequence": 10001,
+      "checksum": 2,
+      "status": "Active",
+      "issue_date": "2026-02-20",
+      "origin_sheet": "Sheet_10001_to_10004"
+    },
+    {
+      "id": "SLS-AA100023",
+      "denomination": 10,
+      "batch": "AA",
+      "sequence": 10002,
+      "checksum": 3,
+      "status": "Active",
+      "issue_date": "2026-02-20",
+      "origin_sheet": "Sheet_10001_to_10004"
+    },
+    {
+      "id": "SLS-AA100034",
+      "denomination": 10,
+      "batch": "AA",
+      "sequence": 10003,
+      "checksum": 4,
+      "status": "Active",
+      "issue_date": "2026-02-20",
+      "origin_sheet": "Sheet_10001_to_10004"
+    },
+    {
+      "id": "SLS-AA100045",
+      "denomination": 10,
+      "batch": "AA",
+      "sequence": 10004,
+      "checksum": 5,
+      "status": "Active",
+      "issue_date": "2026-02-20",
+      "origin_sheet": "Sheet_10001_to_10004"
     }
   ]
 }
