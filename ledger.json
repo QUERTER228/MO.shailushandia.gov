@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_circulation": 80,
+    "total_circulation": 120,
     "last_updated": "2026-02-17"
   },
   "active_units": [
@@ -34,9 +34,9 @@
       "issue_date": "2026-02-15"
     },
     {
-      "id": "SLS-AA100012",
+      "id": "SLS-XP100012",
       "denomination": 10,
-      "batch": "AA",
+      "batch": "XP",
       "sequence": 10001,
       "checksum": 2,
       "status": "Active",
@@ -44,9 +44,9 @@
       "origin_sheet": "Sheet_10001_to_10004"
     },
     {
-      "id": "SLS-AA100023",
+      "id": "SLS-XP100023",
       "denomination": 10,
-      "batch": "AA",
+      "batch": "XP",
       "sequence": 10002,
       "checksum": 3,
       "status": "Active",
@@ -54,9 +54,9 @@
       "origin_sheet": "Sheet_10001_to_10004"
     },
     {
-      "id": "SLS-AA100034",
+      "id": "SLS-XP100034",
       "denomination": 10,
-      "batch": "AA",
+      "batch": "XP",
       "sequence": 10003,
       "checksum": 4,
       "status": "Active",
@@ -64,9 +64,9 @@
       "origin_sheet": "Sheet_10001_to_10004"
     },
     {
-      "id": "SLS-AA100045",
+      "id": "SLS-XP100045",
       "denomination": 10,
-      "batch": "AA",
+      "batch": "XP",
       "sequence": 10004,
       "checksum": 5,
       "status": "Active",
