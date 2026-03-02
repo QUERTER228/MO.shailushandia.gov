@@ -74,46 +74,6 @@
       "origin_sheet": "Sheet_10001_to_10004"
     },
     {
-      "id": "SLS-AA100012",
-      "denomination": 10,
-      "batch": "AA",
-      "sequence": 10001,
-      "checksum": 2,
-      "status": "Active",
-      "issue_date": "2026-03-02",
-      "origin_sheet": "Sheet_10001_to_10004"
-    },
-    {
-      "id": "SLS-AA100023",
-      "denomination": 10,
-      "batch": "AA",
-      "sequence": 10002,
-      "checksum": 3,
-      "status": "Active",
-      "issue_date": "2026-03-02",
-      "origin_sheet": "Sheet_10001_to_10004"
-    },
-    {
-      "id": "SLS-AA100034",
-      "denomination": 10,
-      "batch": "AA",
-      "sequence": 10003,
-      "checksum": 4,
-      "status": "Active",
-      "issue_date": "2026-03-02",
-      "origin_sheet": "Sheet_10001_to_10004"
-    },
-    {
-      "id": "SLS-AA100045",
-      "denomination": 10,
-      "batch": "AA",
-      "sequence": 10004,
-      "checksum": 5,
-      "status": "Active",
-      "issue_date": "2026-03-02",
-      "origin_sheet": "Sheet_10001_to_10004"
-    },
-    {
       "id": "SLS-AA100056",
       "denomination": 10,
       "batch": "AA",
