@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_circulation": 160,
+    "total_circulation": 320,
     "last_updated": "2026-02-17"
   },
   "active_units": [
@@ -72,6 +72,166 @@
       "status": "Active",
       "issue_date": "2026-02-20",
       "origin_sheet": "Sheet_10001_to_10004"
+    },
+    {
+      "id": "SLS-AA100012",
+      "denomination": 10,
+      "batch": "AA",
+      "sequence": 10001,
+      "checksum": 2,
+      "status": "Active",
+      "issue_date": "2026-03-02",
+      "origin_sheet": "Sheet_10001_to_10004"
+    },
+    {
+      "id": "SLS-AA100023",
+      "denomination": 10,
+      "batch": "AA",
+      "sequence": 10002,
+      "checksum": 3,
+      "status": "Active",
+      "issue_date": "2026-03-02",
+      "origin_sheet": "Sheet_10001_to_10004"
+    },
+    {
+      "id": "SLS-AA100034",
+      "denomination": 10,
+      "batch": "AA",
+      "sequence": 10003,
+      "checksum": 4,
+      "status": "Active",
+      "issue_date": "2026-03-02",
+      "origin_sheet": "Sheet_10001_to_10004"
+    },
+    {
+      "id": "SLS-AA100045",
+      "denomination": 10,
+      "batch": "AA",
+      "sequence": 10004,
+      "checksum": 5,
+      "status": "Active",
+      "issue_date": "2026-03-02",
+      "origin_sheet": "Sheet_10001_to_10004"
+    },
+    {
+      "id": "SLS-AA100056",
+      "denomination": 10,
+      "batch": "AA",
+      "sequence": 10005,
+      "checksum": 6,
+      "status": "Active",
+      "issue_date": "2026-03-02",
+      "origin_sheet": "Sheet_10005_to_10008"
+    },
+    {
+      "id": "SLS-AA100067",
+      "denomination": 10,
+      "batch": "AA",
+      "sequence": 10006,
+      "checksum": 7,
+      "status": "Active",
+      "issue_date": "2026-03-02",
+      "origin_sheet": "Sheet_10005_to_10008"
+    },
+    {
+      "id": "SLS-AA100078",
+      "denomination": 10,
+      "batch": "AA",
+      "sequence": 10007,
+      "checksum": 8,
+      "status": "Active",
+      "issue_date": "2026-03-02",
+      "origin_sheet": "Sheet_10005_to_10008"
+    },
+    {
+      "id": "SLS-AA100089",
+      "denomination": 10,
+      "batch": "AA",
+      "sequence": 10008,
+      "checksum": 9,
+      "status": "Active",
+      "issue_date": "2026-03-02",
+      "origin_sheet": "Sheet_10005_to_10008"
+    },
+    {
+      "id": "SLS-AA100090",
+      "denomination": 10,
+      "batch": "AA",
+      "sequence": 10009,
+      "checksum": 0,
+      "status": "Active",
+      "issue_date": "2026-03-02",
+      "origin_sheet": "Sheet_10009_to_10012"
+    },
+    {
+      "id": "SLS-AA100102",
+      "denomination": 10,
+      "batch": "AA",
+      "sequence": 10010,
+      "checksum": 2,
+      "status": "Active",
+      "issue_date": "2026-03-02",
+      "origin_sheet": "Sheet_10009_to_10012"
+    },
+    {
+      "id": "SLS-AA100113",
+      "denomination": 10,
+      "batch": "AA",
+      "sequence": 10011,
+      "checksum": 3,
+      "status": "Active",
+      "issue_date": "2026-03-02",
+      "origin_sheet": "Sheet_10009_to_10012"
+    },
+    {
+      "id": "SLS-AA100124",
+      "denomination": 10,
+      "batch": "AA",
+      "sequence": 10012,
+      "checksum": 4,
+      "status": "Active",
+      "issue_date": "2026-03-02",
+      "origin_sheet": "Sheet_10009_to_10012"
+    },
+    {
+      "id": "SLS-AA100135",
+      "denomination": 10,
+      "batch": "AA",
+      "sequence": 10013,
+      "checksum": 5,
+      "status": "Active",
+      "issue_date": "2026-03-02",
+      "origin_sheet": "Sheet_10013_to_10016"
+    },
+    {
+      "id": "SLS-AA100146",
+      "denomination": 10,
+      "batch": "AA",
+      "sequence": 10014,
+      "checksum": 6,
+      "status": "Active",
+      "issue_date": "2026-03-02",
+      "origin_sheet": "Sheet_10013_to_10016"
+    },
+    {
+      "id": "SLS-AA100157",
+      "denomination": 10,
+      "batch": "AA",
+      "sequence": 10015,
+      "checksum": 7,
+      "status": "Active",
+      "issue_date": "2026-03-02",
+      "origin_sheet": "Sheet_10013_to_10016"
+    },
+    {
+      "id": "SLS-AA100168",
+      "denomination": 10,
+      "batch": "AA",
+      "sequence": 10016,
+      "checksum": 8,
+      "status": "Active",
+      "issue_date": "2026-03-02",
+      "origin_sheet": "Sheet_10013_to_10016"
     }
   ]
 }
