@@ -192,6 +192,7 @@
       "status": "Active",
       "issue_date": "2026-03-02",
       "origin_sheet": "Sheet_10013_to_10016"
+<<<<<<< HEAD
     },
     {
       "id": "SLS-AA100179",
@@ -272,6 +273,8 @@
       "status": "Active",
       "issue_date": "2026-03-03",
       "origin_sheet": "Sheet_10021_to_10024"
+=======
+>>>>>>> 9a8a07fa598e564f8c88abb7c193985e24b72078
     }
   ]
 }
