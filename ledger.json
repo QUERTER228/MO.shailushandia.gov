@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_circulation": 820,
+    "total_circulation": 824,
     "last_updated": "2026-02-17"
   },
   "active_units": [
@@ -192,6 +192,46 @@
       "status": "Active",
       "issue_date": "2026-03-02",
       "origin_sheet": "Sheet_10013_to_10016"
+    },
+    {
+      "id": "SLS-AA100179",
+      "denomination": 1,
+      "batch": "AA",
+      "sequence": 10017,
+      "checksum": 9,
+      "status": "Active",
+      "issue_date": "2026-03-12",
+      "origin_sheet": "Sheet_10017_to_10020"
+    },
+    {
+      "id": "SLS-AA100180",
+      "denomination": 1,
+      "batch": "AA",
+      "sequence": 10018,
+      "checksum": 0,
+      "status": "Active",
+      "issue_date": "2026-03-12",
+      "origin_sheet": "Sheet_10017_to_10020"
+    },
+    {
+      "id": "SLS-AA100191",
+      "denomination": 1,
+      "batch": "AA",
+      "sequence": 10019,
+      "checksum": 1,
+      "status": "Active",
+      "issue_date": "2026-03-12",
+      "origin_sheet": "Sheet_10017_to_10020"
+    },
+    {
+      "id": "SLS-AA100203",
+      "denomination": 1,
+      "batch": "AA",
+      "sequence": 10020,
+      "checksum": 3,
+      "status": "Active",
+      "issue_date": "2026-03-12",
+      "origin_sheet": "Sheet_10017_to_10020"
     }
   ]
 }
