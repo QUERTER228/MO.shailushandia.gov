@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_circulation": 832,
+    "total_circulation": 840,
     "last_updated": "2026-02-17"
   },
   "active_units": [
@@ -312,6 +312,86 @@
       "status": "Active",
       "issue_date": "2026-03-12",
       "origin_sheet": "Sheet_10025_to_10028"
+    },
+    {
+      "id": "SLS-AA100292",
+      "denomination": 1,
+      "batch": "AA",
+      "sequence": 10029,
+      "checksum": 2,
+      "status": "Active",
+      "issue_date": "2026-03-17",
+      "origin_sheet": "Sheet_10029_to_10032"
+    },
+    {
+      "id": "SLS-AA100304",
+      "denomination": 1,
+      "batch": "AA",
+      "sequence": 10030,
+      "checksum": 4,
+      "status": "Active",
+      "issue_date": "2026-03-17",
+      "origin_sheet": "Sheet_10029_to_10032"
+    },
+    {
+      "id": "SLS-AA100315",
+      "denomination": 1,
+      "batch": "AA",
+      "sequence": 10031,
+      "checksum": 5,
+      "status": "Active",
+      "issue_date": "2026-03-17",
+      "origin_sheet": "Sheet_10029_to_10032"
+    },
+    {
+      "id": "SLS-AA100326",
+      "denomination": 1,
+      "batch": "AA",
+      "sequence": 10032,
+      "checksum": 6,
+      "status": "Active",
+      "issue_date": "2026-03-17",
+      "origin_sheet": "Sheet_10029_to_10032"
+    },
+    {
+      "id": "SLS-AA100337",
+      "denomination": 1,
+      "batch": "AA",
+      "sequence": 10033,
+      "checksum": 7,
+      "status": "Active",
+      "issue_date": "2026-03-17",
+      "origin_sheet": "Sheet_10033_to_10036"
+    },
+    {
+      "id": "SLS-AA100348",
+      "denomination": 1,
+      "batch": "AA",
+      "sequence": 10034,
+      "checksum": 8,
+      "status": "Active",
+      "issue_date": "2026-03-17",
+      "origin_sheet": "Sheet_10033_to_10036"
+    },
+    {
+      "id": "SLS-AA100359",
+      "denomination": 1,
+      "batch": "AA",
+      "sequence": 10035,
+      "checksum": 9,
+      "status": "Active",
+      "issue_date": "2026-03-17",
+      "origin_sheet": "Sheet_10033_to_10036"
+    },
+    {
+      "id": "SLS-AA100360",
+      "denomination": 1,
+      "batch": "AA",
+      "sequence": 10036,
+      "checksum": 0,
+      "status": "Active",
+      "issue_date": "2026-03-17",
+      "origin_sheet": "Sheet_10033_to_10036"
     }
   ]
 }
